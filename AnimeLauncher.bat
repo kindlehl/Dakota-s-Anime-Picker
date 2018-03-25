@@ -1,0 +1,1 @@
+C:\%HOMEPATH%\AppData\Local\Programs\Python\Python36-32 C:\%HOMEPATH%\AppData\ANIME\main.py
